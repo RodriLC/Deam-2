@@ -1,0 +1,660 @@
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0mGot Error
+MSG: Failed to load data from api
+retrying in 3 seconds
+Error: TooManyRequests
+[2J8[0msecret key valid, agent has 3 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.19): 1723601141959 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+planning-florist.gl.at.ply.gg:1072 => 127.0.0.1:1072 (minecraft-bedrock)
+provide-wings.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+device-necessarily.gl.joinmc.link => 127.0.0.1:2449 (disabled)
+[2J8[0mplayit (v0.15.19): 1723601145024 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+planning-florist.gl.at.ply.gg:1072 => 127.0.0.1:1072 (minecraft-bedrock)
+provide-wings.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+device-necessarily.gl.joinmc.link => 127.0.0.1:2449 (disabled)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.19): 1723601160146 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+planning-florist.gl.at.ply.gg:1072 => 127.0.0.1:1072 (minecraft-bedrock)
+provide-wings.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+device-necessarily.gl.joinmc.link => 127.0.0.1:2449 (disabled)
+[2J8[0mplayit (v0.15.19): 1723601163208 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+planning-florist.gl.at.ply.gg:1072 => 127.0.0.1:1072 (minecraft-bedrock)
+provide-wings.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+device-necessarily.gl.joinmc.link => 127.0.0.1:2449 (disabled)
+[2J8[0mplayit (v0.15.19): 1723601166277 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+planning-florist.gl.at.ply.gg:1072 => 127.0.0.1:1072 (minecraft-bedrock)
+provide-wings.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+device-necessarily.gl.joinmc.link => 127.0.0.1:2449 (disabled)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.19): 1723601181384 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+planning-florist.gl.at.ply.gg:1072 => 127.0.0.1:1072 (minecraft-bedrock)
+provide-wings.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+device-necessarily.gl.joinmc.link => 127.0.0.1:2449 (disabled)
+[2J8[0mplayit (v0.15.19): 1723601184450 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+planning-florist.gl.at.ply.gg:1072 => 127.0.0.1:1072 (minecraft-bedrock)
+provide-wings.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+device-necessarily.gl.joinmc.link => 127.0.0.1:2449 (disabled)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.19): 1723601199561 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+planning-florist.gl.at.ply.gg:1072 => 127.0.0.1:1072 (minecraft-bedrock)
+provide-wings.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+device-necessarily.gl.joinmc.link => 127.0.0.1:2449 (disabled)
+[2J8[0mplayit (v0.15.19): 1723601202635 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+planning-florist.gl.at.ply.gg:1072 => 127.0.0.1:1072 (minecraft-bedrock)
+provide-wings.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+device-necessarily.gl.joinmc.link => 127.0.0.1:2449 (disabled)
+[2J8[0mplayit (v0.15.19): 1723601205713 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+planning-florist.gl.at.ply.gg:1072 => 127.0.0.1:1072 (minecraft-bedrock)
+provide-wings.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+device-necessarily.gl.joinmc.link => 127.0.0.1:2449 (disabled)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.19): 1723601220876 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+planning-florist.gl.at.ply.gg:1072 => 127.0.0.1:1072 (minecraft-bedrock)
+provide-wings.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+device-necessarily.gl.joinmc.link => 127.0.0.1:2449 (disabled)
+[2J8[0mplayit (v0.15.19): 1723601223941 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+planning-florist.gl.at.ply.gg:1072 => 127.0.0.1:1072 (minecraft-bedrock)
+provide-wings.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+device-necessarily.gl.joinmc.link => 127.0.0.1:2449 (disabled)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.19): 1723601239035 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+planning-florist.gl.at.ply.gg:1072 => 127.0.0.1:1072 (minecraft-bedrock)
+provide-wings.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+device-necessarily.gl.joinmc.link => 127.0.0.1:2449 (disabled)
+[2J8[0mplayit (v0.15.19): 1723601242097 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+planning-florist.gl.at.ply.gg:1072 => 127.0.0.1:1072 (minecraft-bedrock)
+provide-wings.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+device-necessarily.gl.joinmc.link => 127.0.0.1:2449 (disabled)
+[2J8[0mplayit (v0.15.19): 1723601245163 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+planning-florist.gl.at.ply.gg:1072 => 127.0.0.1:1072 (minecraft-bedrock)
+provide-wings.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+device-necessarily.gl.joinmc.link => 127.0.0.1:2449 (disabled)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.19): 1723601260268 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+planning-florist.gl.at.ply.gg:1072 => 127.0.0.1:1072 (minecraft-bedrock)
+provide-wings.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+device-necessarily.gl.joinmc.link => 127.0.0.1:2449 (disabled)
+[2J8[0mplayit (v0.15.19): 1723601263330 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+planning-florist.gl.at.ply.gg:1072 => 127.0.0.1:1072 (minecraft-bedrock)
+provide-wings.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+device-necessarily.gl.joinmc.link => 127.0.0.1:2449 (disabled)
+[2J8[0mplayit (v0.15.19): 1723601266401 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+planning-florist.gl.at.ply.gg:1072 => 127.0.0.1:1072 (minecraft-bedrock)
+provide-wings.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+device-necessarily.gl.joinmc.link => 127.0.0.1:2449 (disabled)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.19): 1723601281495 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+planning-florist.gl.at.ply.gg:1072 => 127.0.0.1:1072 (minecraft-bedrock)
+provide-wings.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+device-necessarily.gl.joinmc.link => 127.0.0.1:2449 (disabled)
+[2J8[0mplayit (v0.15.19): 1723601284559 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+planning-florist.gl.at.ply.gg:1072 => 127.0.0.1:1072 (minecraft-bedrock)
+provide-wings.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+device-necessarily.gl.joinmc.link => 127.0.0.1:2449 (disabled)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.19): 1723601299653 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+planning-florist.gl.at.ply.gg:1072 => 127.0.0.1:1072 (minecraft-bedrock)
+provide-wings.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+device-necessarily.gl.joinmc.link => 127.0.0.1:2449 (disabled)
+[2J8[0mplayit (v0.15.19): 1723601302724 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+planning-florist.gl.at.ply.gg:1072 => 127.0.0.1:1072 (minecraft-bedrock)
+provide-wings.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+device-necessarily.gl.joinmc.link => 127.0.0.1:2449 (disabled)
+[2J8[0mplayit (v0.15.19): 1723601305795 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+planning-florist.gl.at.ply.gg:1072 => 127.0.0.1:1072 (minecraft-bedrock)
+provide-wings.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+device-necessarily.gl.joinmc.link => 127.0.0.1:2449 (disabled)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.19): 1723601320896 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+planning-florist.gl.at.ply.gg:1072 => 127.0.0.1:1072 (minecraft-bedrock)
+provide-wings.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+device-necessarily.gl.joinmc.link => 127.0.0.1:2449 (disabled)
+[2J8[0mplayit (v0.15.19): 1723601323973 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+planning-florist.gl.at.ply.gg:1072 => 127.0.0.1:1072 (minecraft-bedrock)
+provide-wings.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+device-necessarily.gl.joinmc.link => 127.0.0.1:2449 (disabled)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.19): 1723601339073 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+planning-florist.gl.at.ply.gg:1072 => 127.0.0.1:1072 (minecraft-bedrock)
+provide-wings.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+device-necessarily.gl.joinmc.link => 127.0.0.1:2449 (disabled)
+[2J8[0mplayit (v0.15.19): 1723601342147 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+planning-florist.gl.at.ply.gg:1072 => 127.0.0.1:1072 (minecraft-bedrock)
+provide-wings.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+device-necessarily.gl.joinmc.link => 127.0.0.1:2449 (disabled)
+[2J8[0mplayit (v0.15.19): 1723601345242 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+planning-florist.gl.at.ply.gg:1072 => 127.0.0.1:1072 (minecraft-bedrock)
+provide-wings.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+device-necessarily.gl.joinmc.link => 127.0.0.1:2449 (disabled)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.19): 1723601360339 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+planning-florist.gl.at.ply.gg:1072 => 127.0.0.1:1072 (minecraft-bedrock)
+provide-wings.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+device-necessarily.gl.joinmc.link => 127.0.0.1:2449 (disabled)
+[2J8[0mplayit (v0.15.19): 1723601363400 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+planning-florist.gl.at.ply.gg:1072 => 127.0.0.1:1072 (minecraft-bedrock)
+provide-wings.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+device-necessarily.gl.joinmc.link => 127.0.0.1:2449 (disabled)
+[2J8[0mplayit (v0.15.19): 1723601366463 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+planning-florist.gl.at.ply.gg:1072 => 127.0.0.1:1072 (minecraft-bedrock)
+provide-wings.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+device-necessarily.gl.joinmc.link => 127.0.0.1:2449 (disabled)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.19): 1723601381568 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+planning-florist.gl.at.ply.gg:1072 => 127.0.0.1:1072 (minecraft-bedrock)
+provide-wings.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+device-necessarily.gl.joinmc.link => 127.0.0.1:2449 (disabled)
+[2J8[0mplayit (v0.15.19): 1723601384636 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+planning-florist.gl.at.ply.gg:1072 => 127.0.0.1:1072 (minecraft-bedrock)
+provide-wings.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+device-necessarily.gl.joinmc.link => 127.0.0.1:2449 (disabled)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.19): 1723601399736 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+planning-florist.gl.at.ply.gg:1072 => 127.0.0.1:1072 (minecraft-bedrock)
+provide-wings.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+device-necessarily.gl.joinmc.link => 127.0.0.1:2449 (disabled)
+[2J8[0mplayit (v0.15.19): 1723601402805 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+planning-florist.gl.at.ply.gg:1072 => 127.0.0.1:1072 (minecraft-bedrock)
+provide-wings.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+device-necessarily.gl.joinmc.link => 127.0.0.1:2449 (disabled)
+[2J8[0mplayit (v0.15.19): 1723601405872 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+planning-florist.gl.at.ply.gg:1072 => 127.0.0.1:1072 (minecraft-bedrock)
+provide-wings.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+device-necessarily.gl.joinmc.link => 127.0.0.1:2449 (disabled)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.19): 1723601420969 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+planning-florist.gl.at.ply.gg:1072 => 127.0.0.1:1072 (minecraft-bedrock)
+provide-wings.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+device-necessarily.gl.joinmc.link => 127.0.0.1:2449 (disabled)
+[2J8[0mplayit (v0.15.19): 1723601424036 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+planning-florist.gl.at.ply.gg:1072 => 127.0.0.1:1072 (minecraft-bedrock)
+provide-wings.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+device-necessarily.gl.joinmc.link => 127.0.0.1:2449 (disabled)
+[2J8[0mplayit (v0.15.19): 1723601427112 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+planning-florist.gl.at.ply.gg:1072 => 127.0.0.1:1072 (minecraft-bedrock)
+provide-wings.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+device-necessarily.gl.joinmc.link => 127.0.0.1:2449 (disabled)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.19): 1723601442221 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+planning-florist.gl.at.ply.gg:1072 => 127.0.0.1:1072 (minecraft-bedrock)
+provide-wings.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+device-necessarily.gl.joinmc.link => 127.0.0.1:2449 (disabled)
+[2J8[0mplayit (v0.15.19): 1723601445287 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+planning-florist.gl.at.ply.gg:1072 => 127.0.0.1:1072 (minecraft-bedrock)
+provide-wings.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+device-necessarily.gl.joinmc.link => 127.0.0.1:2449 (disabled)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.19): 1723601460381 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+planning-florist.gl.at.ply.gg:1072 => 127.0.0.1:1072 (minecraft-bedrock)
+provide-wings.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+device-necessarily.gl.joinmc.link => 127.0.0.1:2449 (disabled)
+[2J8[0mplayit (v0.15.19): 1723601463448 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+planning-florist.gl.at.ply.gg:1072 => 127.0.0.1:1072 (minecraft-bedrock)
+provide-wings.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+device-necessarily.gl.joinmc.link => 127.0.0.1:2449 (disabled)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.19): 1723601478548 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+planning-florist.gl.at.ply.gg:1072 => 127.0.0.1:1072 (minecraft-bedrock)
+provide-wings.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+device-necessarily.gl.joinmc.link => 127.0.0.1:2449 (disabled)
+[2J8[0mplayit (v0.15.19): 1723601481613 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+planning-florist.gl.at.ply.gg:1072 => 127.0.0.1:1072 (minecraft-bedrock)
+provide-wings.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+device-necessarily.gl.joinmc.link => 127.0.0.1:2449 (disabled)
+[2J8[0mplayit (v0.15.19): 1723601484675 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+planning-florist.gl.at.ply.gg:1072 => 127.0.0.1:1072 (minecraft-bedrock)
+provide-wings.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+device-necessarily.gl.joinmc.link => 127.0.0.1:2449 (disabled)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.19): 1723601499785 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+planning-florist.gl.at.ply.gg:1072 => 127.0.0.1:1072 (minecraft-bedrock)
+provide-wings.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+device-necessarily.gl.joinmc.link => 127.0.0.1:2449 (disabled)
+[2J8[0mplayit (v0.15.19): 1723601502849 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+planning-florist.gl.at.ply.gg:1072 => 127.0.0.1:1072 (minecraft-bedrock)
+provide-wings.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+device-necessarily.gl.joinmc.link => 127.0.0.1:2449 (disabled)
+[2J8[0mplayit (v0.15.19): 1723601505912 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+planning-florist.gl.at.ply.gg:1072 => 127.0.0.1:1072 (minecraft-bedrock)
+provide-wings.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+device-necessarily.gl.joinmc.link => 127.0.0.1:2449 (disabled)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.19): 1723601521009 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+planning-florist.gl.at.ply.gg:1072 => 127.0.0.1:1072 (minecraft-bedrock)
+provide-wings.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+device-necessarily.gl.joinmc.link => 127.0.0.1:2449 (disabled)
+[2J8[0mplayit (v0.15.19): 1723601524080 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+planning-florist.gl.at.ply.gg:1072 => 127.0.0.1:1072 (minecraft-bedrock)
+provide-wings.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+device-necessarily.gl.joinmc.link => 127.0.0.1:2449 (disabled)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.19): 1723601539211 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+planning-florist.gl.at.ply.gg:1072 => 127.0.0.1:1072 (minecraft-bedrock)
+provide-wings.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+device-necessarily.gl.joinmc.link => 127.0.0.1:2449 (disabled)
+[2J8[0mplayit (v0.15.19): 1723601542273 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+planning-florist.gl.at.ply.gg:1072 => 127.0.0.1:1072 (minecraft-bedrock)
+provide-wings.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+device-necessarily.gl.joinmc.link => 127.0.0.1:2449 (disabled)
+[2J8[0mplayit (v0.15.19): 1723601545336 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+planning-florist.gl.at.ply.gg:1072 => 127.0.0.1:1072 (minecraft-bedrock)
+provide-wings.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+device-necessarily.gl.joinmc.link => 127.0.0.1:2449 (disabled)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.19): 1723601560435 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+planning-florist.gl.at.ply.gg:1072 => 127.0.0.1:1072 (minecraft-bedrock)
+provide-wings.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+device-necessarily.gl.joinmc.link => 127.0.0.1:2449 (disabled)
+[2J8[0mplayit (v0.15.19): 1723601563498 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+planning-florist.gl.at.ply.gg:1072 => 127.0.0.1:1072 (minecraft-bedrock)
+provide-wings.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+device-necessarily.gl.joinmc.link => 127.0.0.1:2449 (disabled)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.19): 1723601578592 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+planning-florist.gl.at.ply.gg:1072 => 127.0.0.1:1072 (minecraft-bedrock)
+provide-wings.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+device-necessarily.gl.joinmc.link => 127.0.0.1:2449 (disabled)
+[2J8[0mplayit (v0.15.19): 1723601581655 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+planning-florist.gl.at.ply.gg:1072 => 127.0.0.1:1072 (minecraft-bedrock)
+provide-wings.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+device-necessarily.gl.joinmc.link => 127.0.0.1:2449 (disabled)
+[2J8[0mplayit (v0.15.19): 1723601584718 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+planning-florist.gl.at.ply.gg:1072 => 127.0.0.1:1072 (minecraft-bedrock)
+provide-wings.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+device-necessarily.gl.joinmc.link => 127.0.0.1:2449 (disabled)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.19): 1723601599821 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+planning-florist.gl.at.ply.gg:1072 => 127.0.0.1:1072 (minecraft-bedrock)
+provide-wings.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+device-necessarily.gl.joinmc.link => 127.0.0.1:2449 (disabled)
+[2J8[0mplayit (v0.15.19): 1723601602906 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+planning-florist.gl.at.ply.gg:1072 => 127.0.0.1:1072 (minecraft-bedrock)
+provide-wings.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+device-necessarily.gl.joinmc.link => 127.0.0.1:2449 (disabled)
+[2J8[0mplayit (v0.15.19): 1723601605971 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+planning-florist.gl.at.ply.gg:1072 => 127.0.0.1:1072 (minecraft-bedrock)
+provide-wings.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+device-necessarily.gl.joinmc.link => 127.0.0.1:2449 (disabled)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.19): 1723601621073 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+planning-florist.gl.at.ply.gg:1072 => 127.0.0.1:1072 (minecraft-bedrock)
+provide-wings.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+device-necessarily.gl.joinmc.link => 127.0.0.1:2449 (disabled)
+[2J8[0mplayit (v0.15.19): 1723601624191 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+planning-florist.gl.at.ply.gg:1072 => 127.0.0.1:1072 (minecraft-bedrock)
+provide-wings.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+device-necessarily.gl.joinmc.link => 127.0.0.1:2449 (disabled)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.19): 1723601639292 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+planning-florist.gl.at.ply.gg:1072 => 127.0.0.1:1072 (minecraft-bedrock)
+provide-wings.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+device-necessarily.gl.joinmc.link => 127.0.0.1:2449 (disabled)
+[2J8[0mplayit (v0.15.19): 1723601642350 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+planning-florist.gl.at.ply.gg:1072 => 127.0.0.1:1072 (minecraft-bedrock)
+provide-wings.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+device-necessarily.gl.joinmc.link => 127.0.0.1:2449 (disabled)
+[2J8[0mplayit (v0.15.19): 1723601645410 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+planning-florist.gl.at.ply.gg:1072 => 127.0.0.1:1072 (minecraft-bedrock)
+provide-wings.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+device-necessarily.gl.joinmc.link => 127.0.0.1:2449 (disabled)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.19): 1723601660525 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+planning-florist.gl.at.ply.gg:1072 => 127.0.0.1:1072 (minecraft-bedrock)
+provide-wings.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+device-necessarily.gl.joinmc.link => 127.0.0.1:2449 (disabled)
+[2J8[0mplayit (v0.15.19): 1723601663641 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+planning-florist.gl.at.ply.gg:1072 => 127.0.0.1:1072 (minecraft-bedrock)
+provide-wings.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+device-necessarily.gl.joinmc.link => 127.0.0.1:2449 (disabled)
+[2J8[0mplayit (v0.15.19): 1723601666702 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+planning-florist.gl.at.ply.gg:1072 => 127.0.0.1:1072 (minecraft-bedrock)
+provide-wings.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+device-necessarily.gl.joinmc.link => 127.0.0.1:2449 (disabled)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.19): 1723601681800 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+planning-florist.gl.at.ply.gg:1072 => 127.0.0.1:1072 (minecraft-bedrock)
+provide-wings.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+device-necessarily.gl.joinmc.link => 127.0.0.1:2449 (disabled)
+[2J8[0mplayit (v0.15.19): 1723601684868 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+planning-florist.gl.at.ply.gg:1072 => 127.0.0.1:1072 (minecraft-bedrock)
+provide-wings.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+device-necessarily.gl.joinmc.link => 127.0.0.1:2449 (disabled)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.19): 1723601699963 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+planning-florist.gl.at.ply.gg:1072 => 127.0.0.1:1072 (minecraft-bedrock)
+provide-wings.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+device-necessarily.gl.joinmc.link => 127.0.0.1:2449 (disabled)
+[2J8[0mplayit (v0.15.19): 1723601703025 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+planning-florist.gl.at.ply.gg:1072 => 127.0.0.1:1072 (minecraft-bedrock)
+provide-wings.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+device-necessarily.gl.joinmc.link => 127.0.0.1:2449 (disabled)
+[2J8[0mplayit (v0.15.19): 1723601706098 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+planning-florist.gl.at.ply.gg:1072 => 127.0.0.1:1072 (minecraft-bedrock)
+provide-wings.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+device-necessarily.gl.joinmc.link => 127.0.0.1:2449 (disabled)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.19): 1723601721193 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+planning-florist.gl.at.ply.gg:1072 => 127.0.0.1:1072 (minecraft-bedrock)
+provide-wings.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+device-necessarily.gl.joinmc.link => 127.0.0.1:2449 (disabled)
+[2J8[0mplayit (v0.15.19): 1723601724255 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+planning-florist.gl.at.ply.gg:1072 => 127.0.0.1:1072 (minecraft-bedrock)
+provide-wings.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+device-necessarily.gl.joinmc.link => 127.0.0.1:2449 (disabled)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.19): 1723601739354 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+planning-florist.gl.at.ply.gg:1072 => 127.0.0.1:1072 (minecraft-bedrock)
+provide-wings.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+device-necessarily.gl.joinmc.link => 127.0.0.1:2449 (disabled)
+[2J8[0mplayit (v0.15.19): 1723601742414 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+planning-florist.gl.at.ply.gg:1072 => 127.0.0.1:1072 (minecraft-bedrock)
+provide-wings.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+device-necessarily.gl.joinmc.link => 127.0.0.1:2449 (disabled)
+[2J8[0mplayit (v0.15.19): 1723601745484 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+planning-florist.gl.at.ply.gg:1072 => 127.0.0.1:1072 (minecraft-bedrock)
+provide-wings.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+device-necessarily.gl.joinmc.link => 127.0.0.1:2449 (disabled)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
